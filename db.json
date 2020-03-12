@@ -1,0 +1,187 @@
+{
+  "Category": [
+    {
+      "id": "1",
+      "CategoryName": "Pizza",
+      "Items": [
+        {
+          "id": "100",
+          "ItemName": "Meat Pizza",
+          "Price": "3.000"
+        },
+        {
+          "id": "101",
+          "ItemName": "Veg Pizza",
+          "Price": "2.000"
+        },
+        {
+          "id": "102",
+          "ItemName": "Meat Pizza Family",
+          "Price": "5.000"
+        },
+        {
+          "id": "103",
+          "ItemName": "Meat Pizza Family",
+          "Price": "5.000"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "CategoryName": "Soup",
+      "Items": [
+        {
+          "id": "200",
+          "ItemName": "Meat Soup",
+          "Price": "3.000"
+        },
+        {
+          "id": "201",
+          "ItemName": "Veg Soup",
+          "Price": "2.000"
+        },
+        {
+          "id": "202",
+          "ItemName": "Meat Soup Family",
+          "Price": "5.000"
+        },
+        {
+          "id": "203",
+          "ItemName": "Meat Soup Family",
+          "Price": "5.000"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "CategoryName": "Fish",
+      "Items": [
+        {
+          "id": "300",
+          "ItemName": "Fish Fry",
+          "Price": "3.000"
+        },
+        {
+          "id": "301",
+          "ItemName": "Fish Dry Fry",
+          "Price": "2.000"
+        },
+        {
+          "id": "302",
+          "ItemName": "Fish Dry Fry",
+          "Price": "5.000"
+        },
+        {
+          "id": "303",
+          "ItemName": "Fish Fry",
+          "Price": "5.000"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "CategoryName": "Salad",
+      "Items": [
+        {
+          "id": "400",
+          "ItemName": "Meat Salad",
+          "Price": "3.000"
+        },
+        {
+          "id": "401",
+          "ItemName": "Veg Salad",
+          "Price": "2.000"
+        },
+        {
+          "id": "402",
+          "ItemName": "Meat Salad Family",
+          "Price": "5.000"
+        },
+        {
+          "id": "403",
+          "ItemName": "Meat Salad Family",
+          "Price": "5.000"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "CategoryName": "Pizza",
+      "Items": [
+        {
+          "id": "500",
+          "ItemName": "Meat Pizza",
+          "Price": "3.000"
+        },
+        {
+          "id": "501",
+          "ItemName": "Veg Pizza",
+          "Price": "2.000"
+        },
+        {
+          "id": "502",
+          "ItemName": "Meat Pizza Family",
+          "Price": "5.000"
+        },
+        {
+          "id": "503",
+          "ItemName": "Meat Pizza Family",
+          "Price": "5.000"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "CategoryName": "Fish",
+      "Items": [
+        {
+          "id": "600",
+          "ItemName": "Fish Fry",
+          "Price": "3.000"
+        },
+        {
+          "id": "601",
+          "ItemName": "Fish Dry Fry",
+          "Price": "2.000"
+        },
+        {
+          "id": "602",
+          "ItemName": "Fish Fry",
+          "Price": "5.000"
+        },
+        {
+          "id": "603",
+          "ItemName": "Fish Roast",
+          "Price": "5.000"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "CategoryName": "Salad",
+      "Items": [
+        {
+          "id": "700",
+          "ItemName": "Meat Salad",
+          "Price": "3.000"
+        },
+        {
+          "id": "701",
+          "ItemName": "Veg Salad",
+          "Price": "2.000"
+        },
+        {
+          "id": "702",
+          "ItemName": "Meat Salad Family",
+          "Price": "5.000"
+        },
+        {
+          "id": "703",
+          "ItemName": "Meat Salad Family",
+          "Price": "5.000"
+        }
+      ]
+    }
+  ]
+}
+}
